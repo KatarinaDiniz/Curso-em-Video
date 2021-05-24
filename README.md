@@ -3,4 +3,4 @@
 
  Primeiro repositório do curso.
  
- ADD diretamente do site.
+ **ADD** diretamente do *site*.
